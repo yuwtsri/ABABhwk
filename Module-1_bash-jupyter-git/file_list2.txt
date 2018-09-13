@@ -1,0 +1,3 @@
+artists_birthdateSort.txt
+artists_lastName_reverse.txt
+artists.txt
